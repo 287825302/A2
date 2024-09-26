@@ -1,0 +1,9 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo App with Configuration Management",
+  "scripts": {
+    "start": "echo TODO: Add start script",
+    "test": "echo TODO: Add test script"
+  }
+}
