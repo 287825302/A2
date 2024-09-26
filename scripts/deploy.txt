@@ -1,0 +1,3 @@
+﻿echo Deploying application...
+REM TODO: Add actual deployment steps
+echo Deployment completed.
